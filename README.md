@@ -3,7 +3,7 @@
 ## Purpose
 A websites that help businesses with marketing their companies through social media, manage their online reputation and optimize their presence on search engines.
 
-![assets/images/Horiseon.png]
+![](assets/images/Horiseon.png)
 ## Built With
 * HTML
 * CSS
